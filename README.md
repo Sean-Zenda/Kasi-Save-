@@ -23,9 +23,7 @@ KasiSave is a modern fintech application designed specifically for informal work
 - **📊 Progress Analytics** - Visual tracking of savings growth and streaks
 - **🌙 Dark Mode Design** - Professional South African-themed UI
 
-## 🚀 Live Demo
 
-[![Deploy to Figma Make](https://img.shields.io/badge/Deploy%20to-Figma%20Make-FF6B35?style=for-the-badge)](https://figma.com)
 
 ## 🛠️ Technology Stack
 
